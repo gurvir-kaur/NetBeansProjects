@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaEjercicios/JavaEjercicios.iml" filepath="$PROJECT_DIR$/JavaEjercicios/JavaEjercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relacion_de_ejercicios_1/Relacion_de_ejercicios_1.iml" filepath="$PROJECT_DIR$/Relacion_de_ejercicios_1/Relacion_de_ejercicios_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relacion_de_ejercicios_2/Relacion_de_ejercicios_2.iml" filepath="$PROJECT_DIR$/Relacion_de_ejercicios_2/Relacion_de_ejercicios_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+    </modules>
+  </component>
+</project>
